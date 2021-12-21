@@ -10,7 +10,7 @@ public class DemoTeam1 {
 		System.out.println("welcome ");
 		System.out.println("CJC ");
 		m1();
-		
+		System.out.println("CJC159 ");
 
 	}
 	
