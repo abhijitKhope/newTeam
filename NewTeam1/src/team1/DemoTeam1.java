@@ -7,5 +7,8 @@ public class DemoTeam1 {
 		System.out.println("CJC ");
 
 	}
-
+	
+	public void m1(){
+		System.out.println("m1");
+	}
 }
